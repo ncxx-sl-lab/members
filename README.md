@@ -12,12 +12,12 @@ members
 
 ## ncxx-sl-lab 加入方法
 
-[github アカウント名].md (例: masashi-sutou.md) というファイルを作って、プルリクエストしてください。
+[アカウント名].md (例: masashi-sutou.md) というファイルを作成して、プルリクエスト（PR）してください。
 
-内容例)
+**内容例**
 - 簡単な自己紹介
-- 今、仕事で使っている言語や環境など
-- HPや作品など
+- 普段使用している言語や環境など
+- ブログやHPのURL、作品など
 
 ```bash
 $ git clone git@github.com:ncxx-sl-lab/members.git
@@ -25,10 +25,10 @@ $ cd members
 $ cp _template.md yourname.md
 ```
 
-- **PR が取り込まれた後の更新は、自由に master に push していただいて構いません。**
+- **PR が取り込まれた後の更新は、自由に master に push してください。**
 - 現在、取り組んでいる作品についてはぜひ継続して更新して、メンバーに紹介してください。
 
 
 ## idobata (https://idobata.io)
 
-- チーム開発にフォーカスした快適なグループチャットをIdobataは楽しいソフトウェア開発をお手伝いします
+- チーム開発用のグループチャットです。運用方法はまた後日お知らせします。
