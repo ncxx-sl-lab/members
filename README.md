@@ -5,7 +5,7 @@ members
 
 ## 対象者
 
-- Git, GitHubを使って開発してみたい人。
+- Git, GitHubを使って開発してみたい人。[**gitとは？**](https://github.com/ncxx-sl-lab/git-tutorial)
 - みんなでワイワイしながら協力して開発したい人。
 - エンジニア、デザイナなどの役割は問いません。
 
@@ -13,7 +13,7 @@ members
 ## ncxx-sl-lab 加入方法
 
 [アカウント名].md (例: masashi-sutou.md) というファイルを作成して、プルリクエスト（PR）してください。  
-[.mdファイルとは？](https://github.com/ncxx-sl-lab/members/wiki/.md%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9)
+[**.mdファイルとは？**](https://github.com/ncxx-sl-lab/members/wiki/.md%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9)
 
 **内容例**
 - 簡単な自己紹介
