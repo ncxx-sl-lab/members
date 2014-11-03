@@ -2,7 +2,7 @@
 
 ## 自己紹介
 
-sutouのiMacからmembersリポジトリに自己紹介.mdをpsuhしました。
+sutouのiMacからmembersリポジトリに自己紹介.mdをpsuhしました。  
 このmasashi-iMacは自宅のiMacで使用するアカウントです。
 
 ## 普段使用している言語や環境
