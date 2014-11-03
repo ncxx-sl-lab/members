@@ -8,6 +8,15 @@ GitHubで何ができるか試していきましょう。
 ## 普段使用している言語や環境
 最近は運用・保守工程が多くなってきているため、Word・Excel・PowerPointが中心。  
 明確な言語や環境を説明することが減ってきましたが、VB系で育ってJavaも覚えている、よくあるパターンです。  
+とりあえず公式で整理できる範囲は。。。  
+  
+- VB6.0、VB.NET、C#、VBScript、VBA（Excel・Access）
+- Java（Struts1.x、Spring、iBats、Android）
+- Oracle（PL/SQL）、SQLServer
+- Bシェル、Cシェル、awk
+- VSS6.0、SVN
+
+あとは趣味や勉強で必要に応じて覚えている状態です。
 
 ## 最近作っているものとか
 AndroidOSで動作するアプリケーションを開発したいと考えて趣味でやろうとしていますが、時間がなく基礎的なところで断念中。  
