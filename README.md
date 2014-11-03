@@ -5,7 +5,7 @@ member
 
 ## 対象者
 
-- Git, GitHubを使って開発してみたい人。[**gitとは？**](https://github.com/ncxx-sl-lab/git-tutorial)
+- Git, GitHubを使って開発してみたい人。[**gitとは？**](https://github.com/ncxx-sl-lab/git-tutorial/wiki)
 - みんなでワイワイしながら協力して開発したい人。
 - エンジニア、デザイナなどの役割は問いません。
 
