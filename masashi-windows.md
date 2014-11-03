@@ -2,7 +2,7 @@
 
 ## 自己紹介
 
-sutouのwinodws-vistaから自己紹介ファイルをmembersリポジトリにpushしました。
+sutouのwinodws-vistaから自己紹介ファイルをmembersリポジトリにpushしました。  
 windowsでGitやGitHubがどのように活用できるか、このアカウントで試して行きたいと思います。
 
 ## 普段使用している言語や環境
