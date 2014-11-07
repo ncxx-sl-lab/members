@@ -22,11 +22,23 @@ ncxx-sl-labに参加しているメンバーの簡単な自己紹介文が保存
 [**.mdファイルとは？**](https://github.com/ncxx-sl-lab/members/wiki/.md%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9)
 
 **内容例**
-- 簡単な自己紹介
 - 普段使用している言語や環境など
 - ブログやHPのURL、作品など
 - 現在、取り組んでいる作品についてはぜひ継続して更新して、メンバーに紹介してください。
 - 細かいところは、すでに参加している[**メンバーの.mdファイル**](https://github.com/ncxx-sl-lab/members/blob/master/eguchi-hiroyuki.md)を参考にしてください。
+
+**コマンドラインの操作に慣れている人へ**
+ - 下記のコマンドを参考にご自身の.mdファイルを作成して`git add .`→`git comit`→`git push`してください。
+
+```bash		
+$ git clone git@github.com:ncxx-sl-lab/members.git		
+$ cd members		
+$ cp _template.md yourname.md
+$ vi yourname.md
+$ git add .
+$ git commit
+$ git push
+```
 
 ## idobata (https://idobata.io)
 
