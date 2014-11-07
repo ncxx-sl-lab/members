@@ -16,7 +16,7 @@ member
 2. 招待メールのリンク先でjoinのボタンをクリックしてください。
 3. [アカウント名].md (例：masashi-sutou.md) ファイルを好きなエディタで作成してください。
 4. membersリポジトリを画面右端のボタン **clone in desktop** でローカルにコピーしてください。 
-5. 作成した.mdファイルをmembersに移動させて`git commit`してください。  
+5. 作成した.mdファイルをmembersに移動させて`git add .`して`git commit`してください。  
 6. 問題なく`git commit`できた後は、リモートリポジトリに`git push`してください。  
 [**.mdファイルとは？**](https://github.com/ncxx-sl-lab/members/wiki/.md%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9)
 
