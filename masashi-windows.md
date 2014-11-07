@@ -3,7 +3,8 @@
 ## 自己紹介
 
 sutouのwinodws-vistaから自己紹介ファイルをmembersリポジトリにpushしました。  
-windowsでGitやGitHubがどのように活用できるか、このアカウントで試して行きたいと思います。
+このアカウントは自宅のwindowsでGitやGitHubを試験する用のサブアカウントになります。  
+メインのアカウントは[masashi-sutou](https://github.com/masashi-sutou)です。
 
 ## 普段使用している言語や環境
 
