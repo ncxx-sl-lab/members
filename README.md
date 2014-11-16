@@ -9,7 +9,7 @@ ncxx-sl-labに参加しているメンバーの簡単な自己紹介文が保存
 - Git, GitHubを使って開発してみたい人。[**gitとは？**](https://github.com/ncxx-sl-lab/git-tutorial/wiki)
 - みんなでワイワイしながら協力して開発したい人。
 - エンジニア、デザイナなどの役割は問いません。
-- [Git,GitHubのチュートリアル](https://speakerdeck.com/masashi_sutou/git-githubfalsetiyutoriaru) のP.３６〜P.５６を参照すると良いかも。
+- [**Git,GitHubのチュートリアル**](https://speakerdeck.com/masashi_sutou/git-githubfalsetiyutoriaru) のP.３６〜P.５６を参照すると良いかも。
 
 
 ## ncxx-sl-lab 加入方法
