@@ -41,6 +41,9 @@ $ git commit
 $ git push
 ```
 
-## idobata (https://idobata.io)
+## gitter (https://gitter.im/)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ncxx-sl-lab/members?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-- チーム開発用のグループチャットです。運用方法はまた後日お知らせします。
+- リポジトリ単位でチャットルームが出来るサービス。  
+- webもアプリもある。
+- GitHubのアカウントがあれば利用できる。
