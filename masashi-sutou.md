@@ -3,15 +3,16 @@
 ## 自己紹介
 
 須藤です。  
-GitHubで使用しているメインアカウントです。  
-GitHubを活用して楽しくメンバーの皆さん開発していきたいです！！
+こちらはGitHubで使用している[メインアカウント](https://github.com/masashi-sutou)です。
+GitHubを活用して楽しくメンバーの皆さんと開発していきたいです！！
 
 ## 普段使用している言語や環境
 
 - HTML
 - CSS
 - csh,bash
-- Perl
+- Java
+- Objective-c
 - SQL
 - ExcelVBA
 
